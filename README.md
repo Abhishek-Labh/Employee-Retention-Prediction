@@ -1,8 +1,8 @@
 # Employee retention Prediction
 
-End to end ML Project
+Build a machine learnning model to predict the employee retention
 
-### Expectation 
+### Client's Expectation 
 1. Create REST API to train the model using Training Batch Dataset
 2. Use REST API to predict the result using Prediction Batch Dataset
 
